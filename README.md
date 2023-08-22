@@ -1,4 +1,4 @@
-# COVID-19-Twitter-Sentiment-Analysis
+# COVID-19 Twitter Sentiment Analysis
 BT4222 Project AY 22/23 Semester 2
 
 Dataset: https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification
